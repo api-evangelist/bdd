@@ -1,11 +1,22 @@
+aid: bdd
 name: BDD
-description: BDD is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  Behavior-Driven Development (BDD) is a software development methodology that
+  combines test-driven development with domain-driven design, encouraging
+  collaboration between developers, QA, and business stakeholders through
+  human-readable test scenarios.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- BDD
-created: '2025'
-modified: '2025'
+  - BDD
+  - Testing
+  - Software Development
+  - Automation
+url: https://raw.githubusercontent.com/api-evangelist/bdd/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
