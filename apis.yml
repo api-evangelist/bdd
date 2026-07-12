@@ -123,8 +123,12 @@ apis:
     url: https://github.com/jbehave/jbehave-core
 
 common:
+- type: DomainSecurity
+  url: security/bdd-domain-security.yml
 - type: Website
   url: https://cucumber.io/
+- url: https://cucumber.io/blog/rss.xml
+  type: Blog
 - type: Documentation
   url: https://cucumber.io/docs/
 - type: GitHubOrganization
