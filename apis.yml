@@ -135,6 +135,17 @@ apis:
     url: https://github.com/jbehave/jbehave-core
 
 common:
+- type: IssueTracker
+  url: https://github.com/cucumber/cucumber-jvm/issues
+- type: Releases
+  url: https://github.com/cucumber/cucumber-jvm/releases
+- type: CodeOfConduct
+  url: https://github.com/cucumber/.github/blob/main/CODE_OF_CONDUCT.md
+- type: ContributionGuide
+  url: https://github.com/cucumber/cucumber-jvm/blob/main/CONTRIBUTING.md
+- type: License
+  name: MIT
+  url: https://github.com/cucumber/cucumber-jvm/blob/main/LICENSE
 - type: DomainSecurity
   url: security/bdd-domain-security.yml
 - type: Website
