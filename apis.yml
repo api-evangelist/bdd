@@ -72,8 +72,6 @@ apis:
   - type: GitHubRepository
     url: https://github.com/cucumber/cucumber-jvm
 
-  - url: graphql/bdd-graphql.md
-    type: GraphQL
 - aid: bdd:specflow
   name: SpecFlow
   description: >-
