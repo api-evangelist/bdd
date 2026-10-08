@@ -148,6 +148,12 @@ apis:
     url: https://github.com/jbehave/jbehave-core
 
 common:
+- type: Plans
+  url: plans/bdd-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/bdd-rate-limits.yml
+- type: FinOps
+  url: finops/bdd-finops.yml
 - type: IssueTracker
   url: https://github.com/cucumber/cucumber-jvm/issues
 - type: Releases
